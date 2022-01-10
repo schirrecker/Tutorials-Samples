@@ -1,0 +1,8 @@
+import time
+from time import sleep
+
+message = 'Hello World'
+
+while True:
+	print(message)
+	sleep(1)
